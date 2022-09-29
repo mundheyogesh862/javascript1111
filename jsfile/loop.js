@@ -59,3 +59,6 @@ let arr = ['C#', 'HTML', 'CSS', 'Bootstrap', 'Angular'];
 document.write(arr+'<br>');
 document.write(arr.length);
 
+//---------------------functions------------//
+
+
